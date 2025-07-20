@@ -1,6 +1,8 @@
-## Who's Chi_1 (chi1180 in github & qiita)
+## Who's Chi1180
 
-I am a student.
+Hi, I'm Chi1180.
+
+Write code for web, desktop, and mobile (some time. not usualy :p)
 
 I am currently self-taught in programming.
 
